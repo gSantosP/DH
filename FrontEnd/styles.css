@@ -1,0 +1,67 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif sans-serif;
+    background-color: gray;
+}
+div.botao{
+    position: fixed;
+    text-align: right;
+    z-index: 100;
+    right: 5%;
+    bottom: 5%;
+    
+}
+.img:hover{
+    position: relative;
+    right: 50px;
+    bottom: 100px;
+}
+h1{
+    background-color: gold ;
+    border: solid 5px black;
+    padding: 10px
+    
+}
+h2{
+    background-color: rebeccapurple;
+    border: solid 5px black;
+    padding: 5%
+    
+}
+
+div.Caixa1{
+    background-color: aqua;
+    width: 30px;
+    height: 20px;
+    padding: 12px green; 
+   border: solid 3px red;
+   margin: 4px blue;
+   box-sizing: border-box;
+    }
+div.Caixa2{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 100px yellow;
+}
+
+div.Caixa3{
+    background-color: tomato;
+    width: 10px;
+    height: 50px;
+    border: 5% green;
+
+}
+
+/* .Caixa3{
+    position: absolute;
+    top: 40%;
+    bottom: 50%} */
+
+div{
+    margin: 30px auto;
+    padding: 50px;
+
+}
+img{
+    background-color:hotpink;
+}
