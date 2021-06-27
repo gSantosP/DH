@@ -15,14 +15,3 @@ var calculadora = {
     }
 }
 module.exports = calculadora;
-// var soma = (n1, n2)=> console.log(n1 + n2)
-// module.exports = soma
-// var subt = (n1, n2)=> console.log(n1 - n2)
-// module.exports = subt
-// var mult = (n1, n2)=> console.log(n1 * n2)
-// module.exports = mult
-// var divi = (n1, n2)=> console.log(n1 / n2)
-// module.exports = divi
-
-// frutas = ["banana", "maça"]
-// module.exports = frutas
