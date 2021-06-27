@@ -2,8 +2,15 @@
 // Exercicio "Ver numeros"
 
 var numeroPrimos = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
-numeros [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10] = numerosPrimos
-function maiorNumero (n){
-  return Math.min(numeroPrimos)
+var numeroNotPrimos = [2, 4, 6, 8, 9, 10, 12, 14, 15, 16] 
+var numeros = [...numeroPrimos, ...numeroNotPrimos]
+console.log(numeros)
+
+function mostraNumeros(...n){
+    return console.log(math.min(n))
 }
+mostraNumeros(10, 15, 20, 5)
+
+
+
 
